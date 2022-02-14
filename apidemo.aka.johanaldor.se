@@ -1,0 +1,10 @@
+apidemo.aka.johanaldor.se.	86400	IN	NS	a22-64.akam.net.
+apidemo.aka.johanaldor.se.	86400	IN	NS	a28-66.akam.net.
+apidemo.aka.johanaldor.se.	86400	IN	NS	a13-67.akam.net.
+apidemo.aka.johanaldor.se.	86400	IN	NS	a1-247.akam.net.
+apidemo.aka.johanaldor.se.	86400	IN	NS	a11-66.akam.net.
+apidemo.aka.johanaldor.se.	86400	IN	NS	a24-65.akam.net.
+apidemo.aka.johanaldor.se.	1800	IN	TXT	"ehlosan-script-run2"
+apidemo.aka.johanaldor.se.	1800	IN	AAAA	2001:ab8:85b3:0:0:8a1e:370:7225
+apidemo.aka.johanaldor.se.	86400	IN	SOA	a1-247.akam.net. hostmaster.apidemo.aka.johanaldor.se. 2022021416 3600 600 604800 300
+apidemo.aka.johanaldor.se.	1800	IN	A	127.0.0.1
